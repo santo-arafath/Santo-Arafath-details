@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.greeneyeweb.com/wp-content/uploads/2020/06/tringolify.jpg">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.istockphoto.com/id/1072707398/vector/vector-illustration-of-kids-using-computer.jpg?s=612x612&w=0&k=20&c=pXU3_zQzbOXlCdcgdQj95M9ha1iQJuz7uNCUKEurPAM=)
 <h1 align="center">Hi 👋, I'm Arafath Hossen Santo</h1>
 <h3 align="center">I am a student of computer science and engineering from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
