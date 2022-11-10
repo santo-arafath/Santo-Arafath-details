@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://www.greeneyeweb.com/wp-content/uploads/2020/06/tringolify.jpg">
 <h1 align="center">Hi 👋, I'm Arafath Hossen Santo</h1>
 <h3 align="center">I am a student of computer science and engineering from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
